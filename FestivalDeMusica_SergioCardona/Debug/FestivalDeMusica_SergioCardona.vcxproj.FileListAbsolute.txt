@@ -1,0 +1,3 @@
+C:\Users\chejo\Desktop\SergioU\SegundoCiclo2022\PrograAvanzada\LAB\FestivalDeMusica_SergioCardona\FestivalDeMusica_SergioCardona\Debug\FestivalDeMusica_SergioCardona.vcxproj.AssemblyReference.cache
+C:\Users\chejo\Desktop\SergioU\SegundoCiclo2022\PrograAvanzada\LAB\FestivalDeMusica_SergioCardona\FestivalDeMusica_SergioCardona\Debug\FestivalDeMusicaSergioCardona.MyForm.resources
+C:\Users\chejo\Desktop\SergioU\SegundoCiclo2022\PrograAvanzada\LAB\FestivalDeMusica_SergioCardona\FestivalDeMusica_SergioCardona\Debug\FestivalDeMusica_SergioCardona.vcxproj.GenerateResource.cache

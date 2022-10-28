@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\chejo\Desktop\SergioU\SegundoCiclo2022\PrograAvanzada\LAB\FestivalDeMusica_SergioCardona\FestivalDeMusica_SergioCardona\MyForm.h(539,19): warning C4477: 'sprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'System::String ^'
+C:\Users\chejo\Desktop\SergioU\SegundoCiclo2022\PrograAvanzada\LAB\FestivalDeMusica_SergioCardona\FestivalDeMusica_SergioCardona\MyForm.h(539,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Canciones.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  FestivalDeMusica_SergioCardona.vcxproj -> C:\Users\chejo\Desktop\SergioU\SegundoCiclo2022\PrograAvanzada\LAB\FestivalDeMusica_SergioCardona\Debug\FestivalDeMusica_SergioCardona.exe
